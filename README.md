@@ -1,6 +1,6 @@
 # 👨🏽‍💻 AI/ML Coursework
 
-This repository contains solutions, projects, and materials related to Artificial Intelligence (AI), Machine Learning (ML) and Neural Networks courses. It serves as a collection of academic work and practical implementations.
+This repository contains solutions, and materials related to Artificial Intelligence (AI), Machine Learning (ML) and Neural Networks courses. It serves as a collection of academic work and practical implementations.
 
 ---
 
