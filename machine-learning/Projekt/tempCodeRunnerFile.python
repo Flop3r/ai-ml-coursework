@@ -1,0 +1,14 @@
+import numpy as np
+
+M = np.array([2625, 365],
+             [8, 365])
+
+A = np.array([22685],
+             [514,5])
+
+X = np.lingalg(M, A)
+
+a, b = X[1,0], X[0,0]
+print(a, b)
+
+
